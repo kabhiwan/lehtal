@@ -10,98 +10,31 @@
 [Message:   BepInEx] Preloader finished
 [Message:   BepInEx] Chainloader ready
 [Message:   BepInEx] Chainloader started
-[Info   :   BepInEx] 8 plugins to load
-[Info   :   BepInEx] Loading [Gamblers Mod 1.0.0]
-[Info   :Junypai.GamblersMod] Getting configuration entry: Section: General Machine Settings Key: gamblingMachineMaxCooldown
-[Info   :Junypai.GamblersMod] Getting configuration entry: Section: Gambling Chances Key: JackpotChance
-[Info   :Junypai.GamblersMod] Getting configuration entry: Section: Gambling Chances Key: TripleChance
-[Info   :Junypai.GamblersMod] Getting configuration entry: Section: Gambling Chances Key: DoubleChance
-[Info   :Junypai.GamblersMod] Getting configuration entry: Section: Gambling Chances Key: HalveChance
-[Info   :Junypai.GamblersMod] Getting configuration entry: Section: Gambling Chances Key: ZeroChance
-[Info   :Junypai.GamblersMod] Getting configuration entry: Section: Gambling Multipliers Key: JackpotMultiplier
-[Info   :Junypai.GamblersMod] Getting configuration entry: Section: Gambling Multipliers Key: TripleMultiplier
-[Info   :Junypai.GamblersMod] Getting configuration entry: Section: Gambling Multipliers Key: DoubleMultiplier
-[Info   :Junypai.GamblersMod] Getting configuration entry: Section: Gambling Multipliers Key: HalveMultiplier
-[Info   :Junypai.GamblersMod] Getting configuration entry: Section: Gambling Multipliers Key: ZeroMultiplier
-[Info   :Junypai.GamblersMod] Getting configuration entry: Section: Audio Key: GambleMachineMusicEnabled
-[Info   :Junypai.GamblersMod] Getting configuration entry: Section: Audio Key: GambleMachineMusicVolume
-[Info   :Junypai.GamblersMod] Cooldown value from config: 4
-[Info   :Junypai.GamblersMod] Jackpot chance value from config: 3
-[Info   :Junypai.GamblersMod] Triple chance value from config: 11
-[Info   :Junypai.GamblersMod] Double chance value from config: 27
-[Info   :Junypai.GamblersMod] Halve chance value from config: 50
-[Info   :Junypai.GamblersMod] Zero chance value from config: 9
-[Info   :Junypai.GamblersMod] Jackpot multiplier value from config: 10
-[Info   :Junypai.GamblersMod] Triple multiplier value from config: 3
-[Info   :Junypai.GamblersMod] Double multiplier value from config: 2
-[Info   :Junypai.GamblersMod] Halve multiplier value from config: 0.5
-[Info   :Junypai.GamblersMod] Zero multiplier value from config: 0
-[Info   :Junypai.GamblersMod] gambling music enabled from config: True
-[Info   :Junypai.GamblersMod] gambling music volume from config: 0.35
-[Info   :Junypai.GamblersMod] Getting configuration entry: Section: General Machine Settings Key: gamblingMachineMaxCooldown
-[Info   :Junypai.GamblersMod] Getting configuration entry: Section: Gambling Chances Key: JackpotChance
-[Info   :Junypai.GamblersMod] Getting configuration entry: Section: Gambling Chances Key: TripleChance
-[Info   :Junypai.GamblersMod] Getting configuration entry: Section: Gambling Chances Key: DoubleChance
-[Info   :Junypai.GamblersMod] Getting configuration entry: Section: Gambling Chances Key: HalveChance
-[Info   :Junypai.GamblersMod] Getting configuration entry: Section: Gambling Chances Key: ZeroChance
-[Info   :Junypai.GamblersMod] Getting configuration entry: Section: Gambling Multipliers Key: JackpotMultiplier
-[Info   :Junypai.GamblersMod] Getting configuration entry: Section: Gambling Multipliers Key: TripleMultiplier
-[Info   :Junypai.GamblersMod] Getting configuration entry: Section: Gambling Multipliers Key: DoubleMultiplier
-[Info   :Junypai.GamblersMod] Getting configuration entry: Section: Gambling Multipliers Key: HalveMultiplier
-[Info   :Junypai.GamblersMod] Getting configuration entry: Section: Gambling Multipliers Key: ZeroMultiplier
-[Info   :Junypai.GamblersMod] Getting configuration entry: Section: Audio Key: GambleMachineMusicEnabled
-[Info   :Junypai.GamblersMod] Getting configuration entry: Section: Audio Key: GambleMachineMusicVolume
-[Info   :Junypai.GamblersMod] Cooldown value from config: 4
-[Info   :Junypai.GamblersMod] Jackpot chance value from config: 3
-[Info   :Junypai.GamblersMod] Triple chance value from config: 11
-[Info   :Junypai.GamblersMod] Double chance value from config: 27
-[Info   :Junypai.GamblersMod] Halve chance value from config: 50
-[Info   :Junypai.GamblersMod] Zero chance value from config: 9
-[Info   :Junypai.GamblersMod] Jackpot multiplier value from config: 10
-[Info   :Junypai.GamblersMod] Triple multiplier value from config: 3
-[Info   :Junypai.GamblersMod] Double multiplier value from config: 2
-[Info   :Junypai.GamblersMod] Halve multiplier value from config: 0.5
-[Info   :Junypai.GamblersMod] Zero multiplier value from config: 0
-[Info   :Junypai.GamblersMod] gambling music enabled from config: True
-[Info   :Junypai.GamblersMod] gambling music volume from config: 0.35
-[Info   :Junypai.GamblersMod] Getting configuration entry: Section: General Machine Settings Key: gamblingMachineMaxCooldown
-[Info   :Junypai.GamblersMod] Getting configuration entry: Section: Gambling Chances Key: JackpotChance
-[Info   :Junypai.GamblersMod] Getting configuration entry: Section: Gambling Chances Key: TripleChance
-[Info   :Junypai.GamblersMod] Getting configuration entry: Section: Gambling Chances Key: DoubleChance
-[Info   :Junypai.GamblersMod] Getting configuration entry: Section: Gambling Chances Key: HalveChance
-[Info   :Junypai.GamblersMod] Getting configuration entry: Section: Gambling Chances Key: ZeroChance
-[Info   :Junypai.GamblersMod] Getting configuration entry: Section: Gambling Multipliers Key: JackpotMultiplier
-[Info   :Junypai.GamblersMod] Getting configuration entry: Section: Gambling Multipliers Key: TripleMultiplier
-[Info   :Junypai.GamblersMod] Getting configuration entry: Section: Gambling Multipliers Key: DoubleMultiplier
-[Info   :Junypai.GamblersMod] Getting configuration entry: Section: Gambling Multipliers Key: HalveMultiplier
-[Info   :Junypai.GamblersMod] Getting configuration entry: Section: Gambling Multipliers Key: ZeroMultiplier
-[Info   :Junypai.GamblersMod] Getting configuration entry: Section: Audio Key: GambleMachineMusicEnabled
-[Info   :Junypai.GamblersMod] Getting configuration entry: Section: Audio Key: GambleMachineMusicVolume
-[Info   :Junypai.GamblersMod] Cooldown value from config: 4
-[Info   :Junypai.GamblersMod] Jackpot chance value from config: 3
-[Info   :Junypai.GamblersMod] Triple chance value from config: 11
-[Info   :Junypai.GamblersMod] Double chance value from config: 27
-[Info   :Junypai.GamblersMod] Halve chance value from config: 50
-[Info   :Junypai.GamblersMod] Zero chance value from config: 9
-[Info   :Junypai.GamblersMod] Jackpot multiplier value from config: 10
-[Info   :Junypai.GamblersMod] Triple multiplier value from config: 3
-[Info   :Junypai.GamblersMod] Double multiplier value from config: 2
-[Info   :Junypai.GamblersMod] Halve multiplier value from config: 0.5
-[Info   :Junypai.GamblersMod] Zero multiplier value from config: 0
-[Info   :Junypai.GamblersMod] gambling music enabled from config: True
-[Info   :Junypai.GamblersMod] gambling music volume from config: 0.35
-[Info   :Junypai.GamblersMod] Loading gambler bundle assets
-[Info   :Junypai.GamblersMod] Gamblers bundle assets successfully loaded
-[Info   :Junypai.GamblersMod] drumroll asset successfully loaded
-[Info   :Junypai.GamblersMod] holyshit asset successfully loaded
-[Info   :Junypai.GamblersMod] cricket asset successfully loaded
-[Info   :Junypai.GamblersMod] womp asset successfully loaded
-[Info   :Junypai.GamblersMod] machineMusic asset successfully loaded
-[Info   :Junypai.GamblersMod] doublekill asset successfully loaded
-[Info   :Junypai.GamblersMod] triplekill asset successfully loaded
-[Info   :Junypai.GamblersMod] 3270-Regular asset successfully loaded
-[Info   :Junypai.GamblersMod] GamblingMachine asset successfully loaded
-[Info   :Junypai.GamblersMod] HandIconGO asset successfully loaded
+[Info   :   BepInEx] 12 plugins to load
+[Info   :   BepInEx] Loading [ReservedItemSlotCore 1.8.6]
+[Info   :ReservedItemSlotCore-1.8.6] BindingConfigs
+[Info   :ReservedItemSlotCore-1.8.6] Cleaning old config entries
+[Warning:  HarmonyX] AccessTools.GetTypesFromAssembly: assembly ReservedItemSlotCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null => System.Reflection.ReflectionTypeLoadException: Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+Could not load file or assembly 'LethalCompanyInputUtils, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <787acc3c9a4c471ba7d971300105af24>:0 
+  at HarmonyLib.AccessTools.GetTypesFromAssembly (System.Reflection.Assembly assembly) [0x0000d] in <474744d65d8e460fa08cd5fd82b5d65f>:0 
+System.IO.FileNotFoundException: Could not load file or assembly 'LethalCompanyInputUtils, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+File name: 'LethalCompanyInputUtils, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+[Info   :ReservedItemSlotCore-1.8.6] ReservedItemSlotCore loaded
+[Info   :   BepInEx] Loading [ReservedFlashlightSlot 1.5.8]
+[Info   :ReservedFlashlightSlot] BindingConfigs
+[Info   :ReservedFlashlightSlot] Cleaning old config entries
+[Warning:  HarmonyX] AccessTools.GetTypesFromAssembly: assembly ReservedFlashlightSlot, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null => System.Reflection.ReflectionTypeLoadException: Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+Could not load file or assembly 'LethalCompanyInputUtils, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <787acc3c9a4c471ba7d971300105af24>:0 
+  at HarmonyLib.AccessTools.GetTypesFromAssembly (System.Reflection.Assembly assembly) [0x0000d] in <474744d65d8e460fa08cd5fd82b5d65f>:0 
+System.IO.FileNotFoundException: Could not load file or assembly 'LethalCompanyInputUtils, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+File name: 'LethalCompanyInputUtils, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+[Info   :ReservedFlashlightSlot] ReservedFlashlightSlot loaded
+[Info   :   BepInEx] Loading [FreddyBracken 1.0.4]
+[Info   :FreddyBracken] Plugin FreddyBracken is loaded!
 [Info   :   BepInEx] Loading [Lethal Company API 3.3.2]
 [Warning:Lethal Company API] 
 .____    _________           _____  __________ .___  
@@ -112,6 +45,8 @@
         \/       \//_____/        \/                 
                                                      
 [Info   :Lethal Company API] LC_API Starting up..
+[Info   :   BepInEx] Loading [LethalClunk 1.1.1]
+[Info   :LethalClunk] Plugin LethalClunk is loaded!
 [Info   :   BepInEx] Loading [MoreCompany 1.7.4]
 [Info   :MoreCompany] Loading MoreCompany...
 [Info   :MoreCompany] Checking: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company - Copy\BepInEx\plugins/MoreCompanyCosmetics
@@ -169,280 +104,10 @@
 [Info   :   BepInEx] Loading [Yippee tbh mod 1.2.3]
 [Info   :sunnobunno.YippeeMod] sunnobunno.YippeeMod is loading.
 [Info   :sunnobunno.YippeeMod] sunnobunno.YippeeMod is loaded. Yippee!!!
+[Info   :   BepInEx] Loading [WeatherMultipliers 1.1.0]
+[Info   :WeatherMultipliers] Plugin WeatherMultipliers is loaded!
 [Info   :   BepInEx] Loading [More Suits 1.4.1]
 [Info   :More Suits] Plugin More Suits is loaded!
 [Message:   BepInEx] Chainloader startup complete
 [Info   :Lethal Company API] LC_API Started!
-[Info   :Junypai.GamblersMod] Adding Gambling machine to network prefab
-[Message:Lethal Company API] server pre-setup success
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :Junypai.GamblersMod] RoundManagerPatch has awoken
-[Info   :RugbugRedfern.SkinwalkerMod] HOST SENDING CONFIG TO CLIENTS
-[Info   :RugbugRedfern.SkinwalkerMod] SkinwalkerNetworkManager Awake
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :Junypai.GamblersMod] ConnectClientToPlayerObjectPatch
-[Info   :Junypai.GamblersMod] Registering host config message handler: Junypai.GamblersMod_OnHostRecievesClientConfigRequest
-[Warning:Lethal Company API] Asking all other players for their mod list..
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   :Junypai.GamblersMod] Host recieved client config request.
-[Info   :Junypai.GamblersMod] Serializing host config data...
-[Info   :Junypai.GamblersMod] Start writing host config data...
-[Info   :Junypai.GamblersMod] Writing host config data
-[Info   :Junypai.GamblersMod] Sending host config data to client with id of 1...
-[Warning:Lethal Company API] Asking all other players for their mod list..
-[Warning:Lethal Company API] malicioussoap responded with these mods:
-Junypai.GamblersMod
-LC_API
-me.swipez.melonloader.morecompany
-NicholaScott.BepInEx.RuntimeNetcodeRPCValidator
-MoreEmotes
-RugbugRedfern.SkinwalkerMod
-sunnobunno.YippeeMod
-x753.More_Suits
-[Info   :Junypai.GamblersMod] FinishGeneratingNewLevelServerRpcPatch was called
-[Info   :Junypai.GamblersMod] Spawning gambling machine...
-[Info   :Junypai.GamblersMod] Attempting to spawn gambling machine at CompanyBuildingLevel
-[Info   :Junypai.GamblersMod] GamblingMachine has Awoken
-[Info   :Junypai.GamblersMod] GamblingMachine: gamblingMachineMaxCooldown loaded from config: 4
-[Info   :Junypai.GamblersMod] GamblingMachine: jackpotMultiplier loaded from config: 10
-[Info   :Junypai.GamblersMod] GamblingMachine: tripleMultiplier loaded from config: 3
-[Info   :Junypai.GamblersMod] GamblingMachine: doubleMultiplier loaded from config: 2
-[Info   :Junypai.GamblersMod] GamblingMachine: halvedMultiplier loaded from config: 0.5
-[Info   :Junypai.GamblersMod] GamblingMachine: zeroMultiplier loaded from config: 0
-[Info   :Junypai.GamblersMod] GamblingMachine: jackpotPercentage loaded from config: 3
-[Info   :Junypai.GamblersMod] GamblingMachine: triplePercentage loaded from config: 11
-[Info   :Junypai.GamblersMod] GamblingMachine: doublePercentage loaded from config: 27
-[Info   :Junypai.GamblersMod] GamblingMachine: halvedPercentage loaded from config: 50
-[Info   :Junypai.GamblersMod] GamblingMachine: removedPercentage loaded from config: 9
-[Info   :Junypai.GamblersMod] GamblingMachine: gamblingMusicEnabled loaded from config: True
-[Info   :Junypai.GamblersMod] GamblingMachine: gamblingMusicVolume loaded from config: 0.35
-[Info   :Junypai.GamblersMod] GamblingMachine has Started
-[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (3)
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_1_133494801857208765.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_0_133494801854055064.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_2_133494801865203669.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (7)
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_3_133494801885201115.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_4_133494801890864347.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_7_133494801943022159.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_8_133494801953494392.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_9_133494801957668045.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_5_133494801901701938.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_6_133494801918342981.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (6)
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_11_133494801984316263.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_14_133494802029459817.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_15_133494802041125314.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_12_133494801996810296.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_13_133494802012475653.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_10_133494801966360858.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (3)
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_17_133494802092755037.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_16_133494802049463871.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (6)
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_19_133494802134257147.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_18_133494802120743762.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_21_133494802153239881.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_20_133494802140239824.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_22_133494802165080224.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (2)
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_23_133494802197215942.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (8)
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_25_133494802304007244.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_29_133494802344810595.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_31_133494802355806319.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_26_133494802310001265.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_30_133494802348474543.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_28_133494802335485581.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_27_133494802319829354.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_24_133494802271019694.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (3)
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_32_133494802368464320.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_33_133494802393123894.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (3)
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_35_133494802488737051.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_34_133494802420437737.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (5)
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_37_133494802529898296.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_36_133494802520059145.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_39_133494802575064989.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_38_133494802543219596.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (7)
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_43_133494802663328819.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_44_133494802668654677.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_41_133494802611527403.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_45_133494802674985548.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_40_133494802590698500.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_42_133494802617527888.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (4)
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_48_133494802737800090.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_47_133494802723305315.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_46_133494802681482260.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (5)
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_50_133494802796756112.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_52_133494802828584058.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_51_133494802810092240.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_49_133494802763613586.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (3)
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_53_133494802841574930.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_54_133494802865393261.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (5)
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_58_133494802991512038.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_57_133494802954018274.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_56_133494802936869608.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_55_133494802883719993.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (5)
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_61_133494803018497480.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_60_133494803014324547.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_59_133494803002336278.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_62_133494803020996294.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (4)
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_64_133494803093446129.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_63_133494803053643754.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_65_133494803120282602.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (5)
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_68_133494803220064990.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_69_133494803226741242.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_66_133494803164598395.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_67_133494803192417191.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (4)
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_70_133494803241065982.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_73_133494803310213782.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_71_133494803249401710.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_72_133494803274043423.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (4)
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_76_133494803384320607.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_74_133494803328547214.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_75_133494803339345000.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (5)
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_78_133494803416474030.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_79_133494803435962361.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_80_133494803467782095.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_77_133494803388322195.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (7)
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_81_133494803485445012.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_82_133494803501756827.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_83_133494803517925685.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_86_133494803549247421.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_85_133494803540925529.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_84_133494803529597272.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (8)
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_90_133494803613882758.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_91_133494803618216943.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_92_133494803624212065.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_89_133494803604552042.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_93_133494803627872299.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_87_133494803560741523.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_88_133494803574572571.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (2)
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_94_133494803638205565.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (4)
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_96_133494803734666678.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_97_133494803742656111.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_95_133494803672692171.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (3)
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_99_133494803853606616.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_98_133494803776144726.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (5)
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_102_133494803926565622.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_101_133494803918237110.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_103_133494803934399594.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_100_133494803865436225.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (5)
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_104_133494803961715291.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_106_133494804020858598.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_107_133494804034518980.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_105_133494803987381603.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (5)
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_110_133494804090989648.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_109_133494804088328994.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_111_133494804101674142.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_108_133494804039184366.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (3)
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_114_133494804188115519.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_112_133494804120652128.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_113_133494804148957596.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (4)
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_117_133494804264243914.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_118_133494804274243650.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_115_133494804211763658.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_116_133494804232923810.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (3)
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_119_133494804289228835.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_120_133494804324391532.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (6)
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_124_133494804399184829.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_122_133494804377194355.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_123_133494804382346826.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_125_133494804414506746.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_121_133494804346530722.wav
-[Info   :Junypai.GamblersMod] Player disconnected. Resetting the user's configuration settings.
-[Info   :RugbugRedfern.SkinwalkerMod] SkinwalkerNetworkManager OnDestroy
-[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (4)
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_127_133494804472481752.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_129_133494804497799351.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_126_133494804435500011.wav
-[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company - Copy/Lethal Company_Data\..\Dissonance_Diagnostics\Output_23435a35-475c-45d9-b98c-cd9a0865913c_128_
+[Info   :ReservedFlashlightSlot] Initializing hotkeys.
